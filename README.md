@@ -1,0 +1,2 @@
+# AutoML-and-Multi-Objective-Optimization-based-Efficient-Intrusion-Detection-System-for-IoT
+This repository includes code for the paper “Towards Autonomous and Efficient Cybersecurity: A Multi Objective AutoML based Intrusion Detection System” accepted in IEEE TMLCN, implementing AutoML and MOO-based intrusion detection systems that optimizes both ML model effectiveness and efficiency for IoT systems.
