@@ -7,7 +7,7 @@ Organizations:
 - The Advanced Networking Technology and Security (ANTS) Lab, Faculty of Business and IT, Ontario Tech University
 - The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University
 
-The paper is publicly available on [IEEE Explore](https://ieeexplore.ieee.org/document/11240569/)
+The paper is publicly available on [IEEE Explore](https://ieeexplore.ieee.org/document/11240569/) and [arXiv](https://arxiv.org/abs/2511.08491)
 
 If you are interested in AutoML and autonomous intrusion detection, below are other comprehensive GitHub repositories:  
 1. [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics)  
