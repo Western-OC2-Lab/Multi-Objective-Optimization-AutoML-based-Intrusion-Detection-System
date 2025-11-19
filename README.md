@@ -61,16 +61,18 @@ Please feel free to contact me for any questions or cooperation opportunities. I
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang and A. Shami, “Towards Autonomous and Efficient Cybersecurity: A Multi Objective AutoML based Intrusion Detection System,” _IEEE Transactions on Machine Learning in Communications and Networking_, pp. 1–21, 2025, doi: [10.1109/TMLCN.2025.3631379](https://ieeexplore.ieee.org/document/11240569).
+L. Yang and A. Shami, "Toward Autonomous and Efficient Cybersecurity: A Multi-Objective AutoML-Based Intrusion Detection System," in IEEE Transactions on Machine Learning in Communications and Networking, vol. 3, pp. 1244-1264, 2025, doi: [10.1109/TMLCN.2025.3631379](https://ieeexplore.ieee.org/document/11240569).
 
 ```
 @ARTICLE{11240569,
   author={Yang, Li and Shami, Abdallah},
   journal={IEEE Transactions on Machine Learning in Communications and Networking}, 
-  title={Towards Autonomous and Efficient Cybersecurity: A Multi-Objective AutoML-based Intrusion Detection System}, 
+  title={Toward Autonomous and Efficient Cybersecurity: A Multi-Objective AutoML-Based Intrusion Detection System}, 
   year={2025},
-  pages={1-21},
-  keywords={Computer security;Automated machine learning;Optimization;Internet of Things;Intrusion detection;Feature extraction;Data models;Data analysis;Benchmark testing;Adaptation models;Network Automation;AutoML;Multi-Objective Optimization;Cybersecurity;Intrusion Detection System;IoT},
+  volume={3},
+  number={},
+  pages={1244-1264},
+  keywords={Computer security;Automated machine learning;Optimization;Internet of Things;Intrusion detection;Feature extraction;Data models;Data analysis;Benchmark testing;Adaptation models;Network automation;AutoML;multi-objective optimization;cybersecurity;intrusion detection system;IoT},
   doi={10.1109/TMLCN.2025.3631379}}
 ```
 
